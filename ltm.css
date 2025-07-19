@@ -1,0 +1,15 @@
+form.ltm-style{
+    width: 330px;
+    border: solid 1px black;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+form.ltm-style div{
+    margin-bottom: 15px;
+}
+
+form.ltm-style select{
+    width: 41%;
+    box-sizing: border-box;
+}
